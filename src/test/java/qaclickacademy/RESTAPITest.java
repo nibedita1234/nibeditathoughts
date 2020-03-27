@@ -6,6 +6,7 @@ public class RESTAPITest {
 	@Test
 	public void Postjira() {
 		System.out.println("postjira");
+		System.out.println("postjira2");
 	}
 	@Test
 	public void DeleteTwitter() {
